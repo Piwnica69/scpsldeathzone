@@ -1,0 +1,17 @@
+{
+  "logger": true,
+  "accountId": 25991,
+  "apiKey": "HboO/AnDib5h6rYLP1pxuesL",
+  "servers": [
+    {
+      "name": "[PL] DeathZone",
+      "serverId": 70298,
+      "discordUserBotToken": "MTE3NTEwMjMwNjE5MTE1OTQxNg.GGhxiA.qR2lp4HqJ3oawn28QSfbwNGZRu_qu2F4Xs7-iw"
+    },
+    {
+      "name": "Server2",
+      "serverId": 1234,
+      "discordUserBotToken": "XXXXXXXXXXXX"
+    }
+  ]
+}
